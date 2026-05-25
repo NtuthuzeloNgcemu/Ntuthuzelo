@@ -1,5 +1,5 @@
 # Ntuthuzelo
-Building a scalable web platform focused on connecting youth to opportunities, services and community-driven growth
+Building a scalable web platform called Cynsera focused on connecting youth to opportunities, services and community-driven growth
 
 #  About Me:
 Building a Youth-Focused platform called Cynsera focused on connecting people to opportunities and services, while im also learning full-stack Development.<br>Im looking to collaborate on web development projects & intermediate open source collaborations<br>Im looking for help in improving backend architecture, Supabase  integration and improving scalable platform design<br>im currently learning Git/GitHub, Supabase & modern web development workflows.<br>Ask me about web development, platfrom strategy and tech solutions<br>I'm interested in  the intersection of technology, business & human behaviour. i also enjoy solving problems by breaking systems down and understanding how they work.
