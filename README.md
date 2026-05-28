@@ -1,6 +1,3 @@
-# Ntuthuzelo
-Analytical and motivated Information Systems student with interests in Data Analytics, Software Development, and Fintech. With growing skills in SQL, Power BI, JavaScript, and Supabase. Passionate about building practical technology solutions and using data to improve decision-making and user experience.
-
 #  About Me:
 Building a Youth-Focused platform called Cynsera focused on connecting people to opportunities and services, while im also learning full-stack Development.<br>Im looking to collaborate on web development projects & intermediate open source collaborations<br>Im looking for help in improving backend architecture, Supabase  integration and improving scalable platform design<br>im currently learning Git/GitHub, Supabase & modern web development workflows.<br>Ask me about web development, platfrom strategy and tech solutions<br>I'm interested in  the intersection of technology, business & human behaviour. i also enjoy solving problems by breaking systems down and understanding how they work.
 
